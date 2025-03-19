@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Dashboard View][dashboard-screenshot]](https://drive.google.com/file/d/15DD-EJ68GoxoRqJ5CPKVNqCciGGEbS-q/view?usp=drive_link)
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=15DD-EJ68GoxoRqJ5CPKVNqCciGGEbS-q)
 
 This project provides a comprehensive dashboard that visualizes trends and insights about Netflix movies and shows. Using datasets from Netflix and IMDB, the dashboard offers detailed analysis.
 
@@ -52,6 +52,6 @@ The dashboard includes an interactive slider to filter data by year range, along
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project was built using the following tools and technologies:
 
-* [![Power BI][Power BI]][https://www.microsoft.com/en-us/power-platform/products/power-bi]
+* [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
