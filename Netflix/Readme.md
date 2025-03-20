@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=15DD-EJ68GoxoRqJ5CPKVNqCciGGEbS-q)
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1ZzysHVMIz_NeBl_TTd9I-H9V0HSh99zf)
 
 This project provides a comprehensive dashboard that visualizes trends and insights about Netflix movies and shows. Using datasets from Netflix and IMDB, the dashboard offers detailed analysis.
 
